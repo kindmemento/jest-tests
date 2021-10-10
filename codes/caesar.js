@@ -23,8 +23,7 @@ function caesar(string, num) {
       }
     }
   }
-
-  console.log(result.join(""));
+  
   return result.join("");
 }
 
